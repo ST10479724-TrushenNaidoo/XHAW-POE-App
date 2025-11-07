@@ -1,84 +1,57 @@
 References
-Title: JavaScript Tutorial
-Author: W3Schools
-Accessible at: https://www.w3schools.com/js/
+W3Schools. (n.d.). CSS Border. Available at: https://www.w3schools.com/css/css_border.asp
+ (Accessed: 7 November 2025).
 
-Title: React Tutorial
-Author: W3Schools
-Accessible at: https://www.w3schools.com/react/
+W3Schools. (n.d.). CSS Colors. Available at: https://www.w3schools.com/css/css_colors.asp
+ (Accessed: 7 November 2025).
 
-Title: React useState Hook
-Author: W3Schools
-Accessible at: https://www.w3schools.com/react/react_usestate.asp
+W3Schools. (n.d.). CSS Flexbox. Available at: https://www.w3schools.com/css/css3_flexbox.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Array Methods
-Author: W3Schools
-Accessible at: https://www.w3schools.com/js/js_array_methods.asp
+W3Schools. (n.d.). CSS Padding. Available at: https://www.w3schools.com/css/css_padding.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Objects
-Author: W3Schools
-Accessible at: https://www.w3schools.com/js/js_objects.asp
+W3Schools. (n.d.). JavaScript Array Filter(). Available at: https://www.w3schools.com/jsref/jsref_filter.asp
+ (Accessed: 7 November 2025).
 
-Title: CSS Flexbox
-Author: W3Schools
-Accessible at: https://www.w3schools.com/css/css3_flexbox.asp
+W3Schools. (n.d.). JavaScript Array filter() Method. Available at: https://www.w3schools.com/jsref/jsref_filter.asp
+ (Accessed: 7 November 2025).
 
-Title: CSS Colors
-Author: W3Schools
-Accessible at: https://www.w3schools.com/css/css_colors.asp
+W3Schools. (n.d.). JavaScript Array Map(). Available at: https://www.w3schools.com/jsref/jsref_map.asp
+ (Accessed: 7 November 2025).
 
-Title: CSS Padding
-Author: W3Schools
-Accessible at: https://www.w3schools.com/css/css_padding.asp
+W3Schools. (n.d.). JavaScript Array map() Method. Available at: https://www.w3schools.com/jsref/jsref_map.asp
+ (Accessed: 7 November 2025).
 
-Title: CSS Border
-Author: W3Schools
-Accessible at: https://www.w3schools.com/css/css_border.asp
+W3Schools. (n.d.). JavaScript Array Methods. Available at: https://www.w3schools.com/js/js_array_methods.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Functions
-Author: W3Schools
-Accessible at: https://www.w3schools.com/js/js_functions.asp
+W3Schools. (n.d.). JavaScript Array Reduce(). Available at: https://www.w3schools.com/jsref/jsref_reduce.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Array Map()
-Author: W3Schools
-Accessible at: https://www.w3schools.com/jsref/jsref_map.asp
+W3Schools. (n.d.). JavaScript Array reduce() Method. Available at: https://www.w3schools.com/jsref/jsref_reduce.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Array Filter()
-Author: W3Schools
-Accessible at: https://www.w3schools.com/jsref/jsref_filter.asp
+W3Schools. (n.d.). JavaScript Events. Available at: https://www.w3schools.com/js/js_events.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Array Reduce()
-Author: W3Schools
-Accessible at: https://www.w3schools.com/jsref/jsref_reduce.asp
+W3Schools. (n.d.). JavaScript Functions. Available at: https://www.w3schools.com/js/js_functions.asp
+ (Accessed: 7 November 2025).
 
-Title: React useState Hook
-Author: W3Schools
-Accessible at: https://www.w3schools.com/react/react_usestate.asp
+W3Schools. (n.d.). JavaScript Objects. Available at: https://www.w3schools.com/js/js_objects.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Array map() Method
-Author: W3Schools
-Accessible at: https://www.w3schools.com/jsref/jsref_map.asp
+W3Schools. (n.d.). JavaScript Tutorial. Available at: https://www.w3schools.com/js/
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Array filter() Method
-Author: W3Schools
-Accessible at: https://www.w3schools.com/jsref/jsref_filter.asp
+W3Schools. (n.d.). React Components. Available at: https://www.w3schools.com/react/react_components.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Array reduce() Method
-Author: W3Schools
-Accessible at: https://www.w3schools.com/jsref/jsref_reduce.asp
+W3Schools. (n.d.). React Conditional Rendering. Available at: https://www.w3schools.com/react/react_conditional_rendering.asp
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Objects
-Author: W3Schools
-Accessible at: https://www.w3schools.com/js/js_objects.asp
+W3Schools. (n.d.). React Tutorial. Available at: https://www.w3schools.com/react/
+ (Accessed: 7 November 2025).
 
-Title: JavaScript Events
-Author: W3Schools
-Accessible at: https://www.w3schools.com/js/js_events.asp
-
-Title: React Conditional Rendering
-Author: W3Schools
-Accessible at: https://www.w3schools.com/react/react_conditional_rendering.asp
-
-Title: React Components
-Author: W3Schools
-Accessible at: https://www.w3schools.com/react/react_components.asp
+W3Schools. (n.d.). React useState Hook. Available at: https://www.w3schools.com/react/react_usestate.asp
+ (Accessed: 7 November 2025).
