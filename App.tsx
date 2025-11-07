@@ -1428,4 +1428,5 @@ Accessible at: https://www.w3schools.com/jsref/jsref_filter.asp
 
 Title: JavaScript Array Reduce()
 Author: W3Schools
-Accessible at: https://www.w3schools.com/jsref/jsref_reduce.asp*/
+Accessible at: https://www.w3schools.com/jsref/jsref_reduce.asp
+*/
