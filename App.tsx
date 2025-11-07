@@ -1,3 +1,37 @@
+/*Code Attributions
+Title: React useState Hook
+Author: W3Schools
+Accessible at: https://www.w3schools.com/react/react_usestate.asp
+
+Title: JavaScript Array map() Method
+Author: W3Schools
+Accessible at: https://www.w3schools.com/jsref/jsref_map.asp
+
+Title: JavaScript Array filter() Method
+Author: W3Schools
+Accessible at: https://www.w3schools.com/jsref/jsref_filter.asp
+
+Title: JavaScript Array reduce() Method
+Author: W3Schools
+Accessible at: https://www.w3schools.com/jsref/jsref_reduce.asp
+
+Title: JavaScript Objects
+Author: W3Schools
+Accessible at: https://www.w3schools.com/js/js_objects.asp
+
+Title: JavaScript Events
+Author: W3Schools
+Accessible at: https://www.w3schools.com/js/js_events.asp
+
+Title: React Conditional Rendering
+Author: W3Schools
+Accessible at: https://www.w3schools.com/react/react_conditional_rendering.asp
+
+Title: React Components
+Author: W3Schools
+Accessible at: https://www.w3schools.com/react/react_components.asp
+*/
+
 import React, { useState } from 'react';
 import { 
   StyleSheet, 
